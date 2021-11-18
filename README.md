@@ -1,7 +1,7 @@
 # Shower-Tracker
 Track your showers... And graph them...
 
-#Requirements
+# Requirements
 You need tkinter
 
 And also Matplotlib
